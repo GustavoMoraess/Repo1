@@ -1,4 +1,4 @@
 # Repositório Inicial
  Primeiro repositório versionado.
 
-O início de uma longa jornada.
+O início de uma **longa** jornada.
